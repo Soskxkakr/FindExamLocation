@@ -6,6 +6,4 @@
 1.  Sarch Feature that filters the data of recycler view
 2.  Find the searched location in the Google Map
 
-The locations that is provided from this app is **hardcoded** within the project
-
-Including the coordinates of the location
+The locations that is provided from this app is **hardcoded** within the project, including the coordinates of the location
