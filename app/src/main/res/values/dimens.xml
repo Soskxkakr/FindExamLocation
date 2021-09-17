@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Font Size -->
+    <dimen name="text_xs">10dp</dimen>
+    <dimen name="text_sm">14dp</dimen>
+    <dimen name="text_md">18dp</dimen>
+    <dimen name="text_lg">22dp</dimen>
+    <dimen name="text_xl">26dp</dimen>
+
+    <!-- Margin -->
+    <dimen name="margin_xs">10dp</dimen>
+    <dimen name="margin_sm">14dp</dimen>
+    <dimen name="margin_md">18dp</dimen>
+    <dimen name="margin_lg">22dp</dimen>
+    <dimen name="margin_xl">26dp</dimen>
+
+    <!-- Padding -->
+    <dimen name="padding_xxs">6dp</dimen>
+    <dimen name="padding_xs">10dp</dimen>
+    <dimen name="padding_sm">14dp</dimen>
+    <dimen name="padding_md">18dp</dimen>
+    <dimen name="padding_lg">22dp</dimen>
+    <dimen name="padding_xl">26dp</dimen>
+
+    <!-- Search Bar -->
+    <dimen name="stroke_search_bar">4dp</dimen>
+    <dimen name="radius_search_bar">16dp</dimen>
+
+</resources>

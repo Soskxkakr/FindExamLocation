@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FindExamLocation</string>
+
+    <string name="title_activity_maps">Map</string>
+
+    <!-- Activity Search Start -->
+    <string name="toolbar_search">Find My Exam Hall</string>
+    <string name="search_title">Find your Exam Hall</string>
+    <string name="hint_search">Search a location</string>
+    <!-- Activity Search End -->
+</resources>
